@@ -1,1 +1,1 @@
-# Become-a-full-stack-developer-through-these-codes-in-django
+# Become-a-full-stack-developer-through-these-codes
