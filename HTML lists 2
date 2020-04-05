@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>HTML Document</title>
+</head>
+<body>
+<ol type="1" start="4">
+<li> Cup </li>
+<li value="2">Tea </li>
+<li value="2">Sugar </li>
+<li> Milk </li>
+</ol>
+<ul type="square">
+<li>Pen</li>
+<li>Paper</li>
+<li>Clip </li>
+</ul>
+<ul type ="circle">
+<li>Pen </li>
+<l1>Paper</li>
+<li>Clips</li>
+</ul>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
