@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Html Document</title>
+</head>
+<body>
+<!-- This is just the learning chapter ,as we are learning html by now -->
+<h1>First level Heading </h1>
+<!--This is the first paragraph</p>-->
+<p> This is  a second paragraph </p>
+<!--This is the comment-->
+</body>
+</html>
