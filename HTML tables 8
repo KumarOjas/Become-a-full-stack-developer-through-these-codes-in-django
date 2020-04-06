@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Html Document</title>
+</head>
+<body>
+</body>
+<table border="1">
+<thead>
+<tr>
+<th>S.no </th>
+<th>Student Name</th>
+<th>Subject</th>
+<th>Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>John</td>
+<td>Chemistry</td>
+<td>John is a new Student</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Marks</td>
+<td>Physics</td>
+<td>Marks need some practice</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
