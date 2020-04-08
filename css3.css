@@ -1,0 +1,17 @@
+h1{
+background-image:url('../img/img.jpg');
+background-size:50% 50%;
+background-repeat:no-repeat;
+background-position:left bottom;
+border: 2px dotted lightgreen;
+width:400px;
+height:400px;
+margin:100px 50px 10px 10px;
+}
+#second-para {
+color: blue ;
+background-color: red ;
+}
+.first-class {
+color: green;
+}
