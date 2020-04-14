@@ -1,0 +1,36 @@
+import React from 'react';
+class App extends React.Component {
+render() {
+var style = {
+backgroundColor: "blue",
+color:'White',
+fontsize:'40px'
+}
+var value=8;
+return {
+<div>
+We are learning ReactJs
+<div data-shahattr="value"> A new Div</div>
+<div style={style}>Hello world</div>
+<div>{4*4}</div>
+<div>{var1 == 8 ? "True" :"False"}</div>
+
+{//Single Line Comment}
+{/*Multi Line comment*/ }
+
+</div>
+};
+}
+}
+expot default App;
+
+
+
+
+
+
+
+
+
+
+}
