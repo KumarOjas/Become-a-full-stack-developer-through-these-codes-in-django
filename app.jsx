@@ -4,8 +4,8 @@ render () {
 return () {
     <div>
     We are learning React js
+        <div> A new Div </div>
     </div>
-    
     };
     }
     }
