@@ -1,0 +1,72 @@
+import React from  'React' ;
+class App extends React.Component {
+render() {
+return  {
+   <div>
+     </Header>
+     </Content >
+     </Footer>
+     </div>
+     );
+     }
+     }
+     class Header extends React.Component {
+     render () {
+     return {
+     <div>
+     This is the header 
+     </div>
+     };
+     }
+     }
+     
+     
+ class Content extends React.Component {
+ render () {
+ return {
+ <div> This is the Content </div>
+ );
+ }
+ }
+ class Footer extends React.Component {
+ return () {
+ return {
+ <div> This is the Content  </div>
+ );
+ }
+ }
+ class Footer extends React.Component {
+ render() {
+  return {
+  <div> This is the footer </div>
+  };
+  }
+  }
+export default app;  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
